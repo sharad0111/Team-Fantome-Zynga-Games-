@@ -1,4 +1,4 @@
-# Team-Fantome-Zynga-Games-
+# Team-Fantome-Zynga-Games
 
 Team Details -
 1. Sharad Pareek(20BCG10028) 
