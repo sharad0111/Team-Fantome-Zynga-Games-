@@ -6,7 +6,7 @@ Team Details -
 3. Suryansh Singh(20BCG10055)
 4. Neelohit Roy(20BCG10062) 
 
-
+**Please note that the source code of the project was shifted to another repo due to some issues in the existing repo**
 
 1. How they have designed the game?
 =>>
